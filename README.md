@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Vinicius Lucchesi</h1>
-<h3 align="center">A passionate Backend developer from Brasil</h3>
+<h3 align="center">A passionate Backend developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
 - 🌱 I’m currently learning **Rust, Actix-web, Docker**
