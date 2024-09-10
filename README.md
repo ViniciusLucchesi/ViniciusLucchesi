@@ -20,7 +20,7 @@
 
 I am a Systems Analyst with a degree in Information Systems, graduated in 2023 from the [***Instituição Toledo de Ensino (ITE)***](https://ite.edu.br/) in Bauru, São Paulo. My journey into programming began in high school, where I was introduced to the world of Python through the "Mundos de Python" course by Guanabara. Since then, I’ve developed a deep appreciation for this wonderful programming language.
 
-### 🤓 Graduação
+### 🤓 Graduation
 
 During my time at university, I discovered a passion for web development, particularly backend development. I also unearthed another area of interest—web scraping.
 
@@ -28,6 +28,6 @@ Alongside my studies on creating endpoints and automated data collection using P
 
 In my final semester, I had the chance to focus on a critical part of my thesis project by implementing a web API written in Rust, which turned out 👌.
 
-### 😎 Pós-graduação
+### 😎 Post-Graduation
 
 Driven by my desire to deepen my knowledge of software architecture, I enrolled in a post-graduate course at FIAP in Software Architecture. This program has opened my eyes to the versatility of software designs that adopt architectures like Hexagonal Architecture (also known as Ports and Adapters Architecture). It has also broadened my perspective on projects I once thought were impossible to implement.
