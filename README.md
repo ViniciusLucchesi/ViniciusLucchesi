@@ -1,48 +1,33 @@
-![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
-<h1 align="center">Hi 👋, I'm Vinicius Lucchesi</h1>
-<h3 align="center">A passionate Backend developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
+<div align=center>
+  
+# Vinicius Pereira Lucchesi
 
-- 🌱 I’m currently learning **Rust, Actix-web, Docker**
+[Technologies](#-technologies) &nbsp;&bull;&nbsp; [About me](#-about-me)
 
-- 💬 Ask me about **Web Scraping, Python**
+</div>
 
-- 📫 How to reach me **viniciuslucchesi.ti@gmail.com**
+## 🚀 Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vinicius-pereira-lucchesi-335687206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-lucchesi-335687206/" height="30" width="40" /></a>
-</p>
+- Python
+- Rust
+- TypeScript
+- Vue3
+- Docker
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciuslucchesi&show_icons=true&locale=en&layout=compact" alt="viniciuslucchesi" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciuslucchesi&show_icons=true&locale=en" alt="viniciuslucchesi" /></p>
+## 🧑‍🦱 About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciuslucchesi&" alt="viniciuslucchesi" /></p>
+I am a Systems Analyst with a degree in Information Systems, graduated in 2023 from the [***Instituição Toledo de Ensino (ITE)***](https://ite.edu.br/) in Bauru, São Paulo. My journey into programming began in high school, where I was introduced to the world of Python through the "Mundos de Python" course by Guanabara. Since then, I’ve developed a deep appreciation for this wonderful programming language.
+
+### 🤓 Graduação
+
+During my time at university, I discovered a passion for web development, particularly backend development. I also unearthed another area of interest—web scraping.
+
+Alongside my studies on creating endpoints and automated data collection using Python for web scraping, I had the opportunity to participate in a research project. This experience allowed me to demonstrate to my professors and fellow classmates how web scraping could be used to replicate a legacy system (one unlikely to be updated anytime soon), by developing a new and improved interface using React and connecting it to the system's routes with FastAPI.
+
+In my final semester, I had the chance to focus on a critical part of my thesis project by implementing a web API written in Rust, which turned out 👌.
+
+### 😎 Pós-graduação
+
+Driven by my desire to deepen my knowledge of software architecture, I enrolled in a post-graduate course at FIAP in Software Architecture. This program has opened my eyes to the versatility of software designs that adopt architectures like Hexagonal Architecture (also known as Ports and Adapters Architecture). It has also broadened my perspective on projects I once thought were impossible to implement.
